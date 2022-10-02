@@ -1,4 +1,4 @@
-### Please refer to https://github.com/SINGROUP/Graph-AFM for the parent directory.
+### Please refer to https://github.com/SINGROUP/Graph-AFM for the parent directory. Original code by Niko Oinonen.
 
 # Graph-AFM
 Machine learning molecule graphs from atomic force microscopy images.
