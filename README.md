@@ -1,3 +1,5 @@
+### Please refer to https://github.com/SINGROUP/Graph-AFM for the parent directory.
+
 # Graph-AFM
 Machine learning molecule graphs from atomic force microscopy images.
 
